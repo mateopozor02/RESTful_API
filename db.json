@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1, 
+            "name": "Maria",
+            "age": 32,
+            "nationality": "American"
+        },
+        {
+            "id": 2, 
+            "name": "Juan",
+            "age": 22,
+            "nationality": "British"
+        }, 
+        {
+            "id": 3, 
+            "name": "Amy",
+            "age": 19,
+            "nationality": "American"
+        }
+    ]
+}
