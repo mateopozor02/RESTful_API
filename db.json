@@ -17,6 +17,12 @@
             "name": "Amy",
             "age": 19,
             "nationality": "American"
+        }, 
+        {
+            "id": 4, 
+            "name": "Pedro",
+            "age": 22,
+            "nationality": "Colombian"
         }
     ]
 }
